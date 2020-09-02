@@ -58,6 +58,10 @@ def main():
         print(s)
         newScore = Score(s[0], s[1], s[2], s[3], s[4])
         scoreDict.update({s[0] : newScore})
+    
+    #close files
+    csvfile.close()
+    scsvfile.close()
 
     #print courses for testing
     l = len(courseDict)
