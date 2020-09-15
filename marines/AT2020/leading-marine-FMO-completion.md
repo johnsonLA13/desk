@@ -11,5 +11,5 @@
 ## Marines NOT on AT 2nd Squad: Johnson's Team
 
 | Marine Name | Leading Marines | Family Readiness | EPHA | Description/Explaination |
-| :---: | :---: | :---: | :---: |  --- |
-| Lcpl Ogbodo, Jayden | :x: | :white_check_mark: | :white_check_mark: | Has not completed Leading Marines, is not on AT and will not be attending the Lcpl Seminar over this AT period. Will encourage her to complete before October in the event that there is a seminar oppotunity |
+| :-----: | :-----: | :-----: | :-----: |  --- |
+| Lcpl Ogbodo, Jayden | :x: | :white_check_mark: | :white_check_mark: | Has not completed Leading Marines, is not on AT and will not be attending the Lcpl Seminar over this AT period. Will encourage her to complete before October in the event that there is a seminar opportunity |
