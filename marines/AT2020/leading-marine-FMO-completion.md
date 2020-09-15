@@ -1,4 +1,4 @@
-# Current as of Tuesday 20200915 at 1000 hrs
+# Current as of Tuesday, 20200915 at 1100 hrs
 
 ## Marines on AT 2nd Squad (6)
 
