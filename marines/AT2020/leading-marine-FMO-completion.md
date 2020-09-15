@@ -1,7 +1,7 @@
 ## Marines on AT 2nd Squad
 
 | Marine Name | Leading Marines | Family Readiness | EPHA | Description/Explaination |
-| :---: | :---: | :---: | --- |
+| :---: | :---: | :---: | :---: |  --- |
 | Lcpl Boettcher, Connor | :white_check_mark: | :white_check_mark: | | 
 | Lcpl Cox, Ethan | :white_check_mark: | :white_check_mark: | |
 | Lcpl Croucher, Francis | :white_check_mark: | :white_check_mark: | |
