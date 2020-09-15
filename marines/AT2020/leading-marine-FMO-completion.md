@@ -4,7 +4,7 @@
 
 | Marine Name | Leading Marines | Family Readiness | EPHA | Description/Explaination |
 | :---: | :---: | :---: | :---: |  --- |
-| Cpl Johnson, Lucas | | :white_check_mark: | :white_check_mark: | |
+| Cpl Johnson, Lucas | N/A | :white_check_mark: | :white_check_mark: | |
 | Lcpl Boettcher, Connor | :white_check_mark: | :white_check_mark: | :white_check_mark: | | 
 | Lcpl Cox, Ethan | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
 | Lcpl Croucher, Francis | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
