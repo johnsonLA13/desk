@@ -1,5 +1,5 @@
 # CEP Level One Training
----
+
 ## American Development Model 
 
 **Personal Definition:** A universal framework that is used to help develop an individual into an athlete through continous challenge. 
