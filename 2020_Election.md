@@ -125,6 +125,74 @@
 - Yes
     - The commander in chief is entrusted to make decisions with the military that protect the coutries well being at all costs.
     
-**Q:** 
+**Q:** Should the US assassinate suspected terrorists in foreign countries?
+- Yes, but only if there is undeniable evidence they are planning to attack our country
+    - protect our country
     
+### Science Issues
 
+**Q:** Should the government require children to be vaccinated for preventable diseases?
+- Yes
+    - PREVENTABLE diseases. Diseases that it has been proven SCIENTIFICALY that can be prevented if the vaccine is taken. Your children are NOT going to get autism from a vaccine. I'm all for less govn't control, but this is an issue backed by science. The vaccine is not going to hurt you in any way. Get vaccinated and protect not only yourself, but your kids and others.
+
+**Q:** Should producers be required to label genetically engineered foods (GMOs)?
+- Yes, consumers have a right to know what is in their food
+    
+### Healthcare Issues
+    
+**Q:** Should the federal government require people to wear face masks in public during the COVID pandemic?
+- No, the government should recommend it but not require it
+    - Buisinesses should be able to choose for themselves if they are going to require masks to be worn. If a buisiness requires it, it is then on the individual to decide if they want to support that buisiness or not. 
+    
+**Q:** Do you support the Patient Protection and Affordable Care Act (Obamacare)?
+- Yes, I support a majority of the plan but not all aspects
+    - health is a very important thing. People should have access to health care even if they are poor. A small bit more in taxes for the wealthy in order to fund people in need should not be a hard thing to do. I understand the idea of funding someone who may not "deserve" the care as much as someone else, but when it comes down to it we are all humans and should not be denied medical assistance. There should also not be a penalty if someone chooses not to have health insurance. That's on them.
+    
+### Environmental Issues
+    
+**Q:** Should disposable products (such as plastic cups, plates, and cutlery) that contain less than 50% of biodegradable material be banned?
+- Yes.
+   - why not save space on our planet? There is little need to use disposable products to begin with, we should use environmentaly friendly ones when it's necessary.
+   
+**Q:** Should the government increase environmental regulations to prevent climate change?
+- Yes, and provide more incentives for alternative energy production
+    - weather climate change is a result of the natural earth or if we effect it as humans, why not do what we think could be right to make our air and earth cleaner?
+    
+**Q:** Should the U.S. withdraw from the Paris Climate Agreement?
+- Yes, until other countries are held to the same standards
+    - the countries with the most emissions should have the strictest restrictions. Don't restrict our contry from doing things that harm the environment, while letting other countries ruin the world. It's all one world, our goal in the us is a clean environment. That's not a question. A hypocritical agreement does nothing for us.
+    
+### Criminal Issues
+    
+**Q:** Should funding for local police departments be redirected to social and community based programs?
+- No, increase funding and training for police departments in higher crime rate communities
+
+**Q:** Should convicted criminals have the right to vote?
+- Yes, but only after completing their sentences and parole/probation
+
+**Q:** Do you support mandatory minimum prison sentences for people charged with drug possession?
+- Yes, but only for drug dealers, not users
+
+### Social Issues
+
+**Q:** Should the government continue to fund Planned Parenthood?
+- Yes, their services reach far beyond abortions and can save many lives through cancer screening, prenatal services, and adoption referrals
+    - planned parenthood does a lot more than just abortions. No one knows the situation a woman is in when she goes there, so why should anyone have the right to judge or make a decision regarding something they dont know? Let that resource be available for those who need it, its not burdening anyone at all.
+    
+**Q:** What is your stance on abortion?
+- Pro-choice, and providing birth control, sex education, and more social services will help reduce the number of abortions
+    - again, there are so many situations that this can be needed. Situations that are out of control of the woman carrying the child. 
+    
+**Q:** Should “gender identity” be added to anti-discrimination laws?
+- Yes
+    - people can identify as whatever they want, that shouldn't hurt anyone. Sex at birth is without question binary, Male or Female. If someone grows into something else and chooses to identify as something other than their birth sex, fine. Can I comprehend this thought? No. Does it hurt me in any way that some people feel this way? No. We are all humans, believe what you may and I can choose where I go from there. They don't deserve to be discriminated against, but they also don't deserve to be favored over others in any way. (Example: job or school applications)
+    
+### Education Issues
+
+**Q:** Should the federal government pay for tuition at four-year colleges and universities?
+- No, but provide more scholarship opportunities for low-income students
+    
+**Q:** Do you support increasing taxes for the rich in order to reduce interest rates for student loans?
+- No
+    - It is a choice to go to college. If someone can't afford it then either work while in school or take out a loan. The rich don't have any obligation to fund the college experience.
+    
