@@ -57,6 +57,10 @@
 - Yes, test anyone receiving money from the government including employees and politicians
     - People on welfare should be tested. If they are drug users, their welfare should be adjusted and they should be required to attend and recieve treatment. Potentially withhold their welfare and decrease by the amount that the treatment costs for that treatment period? When the person proves to be sober, pay them that welfare that they had witheld less the treatment cost? might be a good incentive to get clean and start contributing to society. I'm not claiming I know how to solves the underlying problem here, but bottom line is yes they need to be tested. Figuring out a way to do this while also getting these people off welfare would obviously be ideal.
     
+**Q:** Should there be fewer or more restrictions on current welfare benefits?
+- More
+    - The current benefits should be capped. The benefits should supliment a working income rather than replace one. 
+    
 **Q:** Do you support a universal basic income program?
 - No, this will encourage people not to work and harm economic growth
     - Furthermore, work for the job you want. Work for the money you want to earn. If you have a dream and a desire to do something you can do it. Go earn what you want, don't ever expect to be handed anything. TERRIBLE Idea.
@@ -66,8 +70,61 @@
 - Yes
     - On the basis that `same job` == `comparable work`. A woman should no doubt be compensated the SAME as a man conducting EQUAL work in a position with EQUAL responsibility. There is no reason a woman should be discriminated against in the workplace. Furthermore, read up on `Kennedy's Equal Pay act of 1963` if you want history regarding this matter.
     
+### Immigration Issues   
+    
+**Q:** Should the U.S. build a wall along the southern border?
+- No, but increase our military presence along the southern border
+    - This will cost less and is more adjustable over time. We are not in wartime, it will give the military something to do. You can always adjust up and down the amount of presence there.
+    
+**Q:** Should illegal immigrants have access to government-subsidized healthcare?
+- No, but they should be allowed to purchase private healthcare
+    - This gives them the opportunity to pay for healthcare if they want it. The govn't should not being paying for illegals to get health care. At the very least, the immigrants needs to pay for their care. Deportation and things of that nature should be determined on a case by case basis. Every situation is different.
+    
+**Q:** Should illegal immigrants be offered in-state tuition rates at public colleges within their residing state?
+- No, they should pay the same rate as out-of-state students
+
+**Q:** Should children of illegal immigrants be granted legal citizenship?
+- Yes, if they were born here
+    - children do not have the power to decide where they are born. They should not be shunned because of the decisions that their illegal immigrant parents made.
+    
+**Q:** Should local law enforcement be allowed to detain illegal immigrants for minor crimes and transfer them to federal immigration authorities?
+- Yes
+    - This simply means turning them over to the authorities that focus on making immigration decisions daily. Let the experts on the laws make the appropriate decisions.
+    
+### Foreign Policy Issues
+    
+**Q:** Should the government increase or decrease military spending?
+- Neither, I am satisfied with the current amount of spending
+    - Funding the military during peacetime deters enemies. It is essential that this funding is activiely managed and fluctuates according to demand.
+    
+**Q:** Should foreign terrorism suspects be given constitutional rights?
+- No, they are not U.S. citizens and do not have constitutional rights
+    - Simple
+    
+**Q:** Should the U.S. remain in the United Nations?
+- Yes, but scale back our current involvement
+    - I think it woud look bad for our country to back out. It is important that we maintain relations with foreign countries and also look out for our best interest. We need to monitor the necessity of our involvememnt in the UN.
+    
+### Electoral Issues
+
+**Q:** Should the electoral college be abolished?
+- No, but reform so that votes are distributed proportionally instead of the current winner take all system
+    - currently a candidate can win the popular vote in a state by 1 vote and get ALL of the states electoral votes. I believe distributing the electoral votes as a portion of the popular vote would be a more representative way of running our elections. It would make everyones vote worth the same. [video on electoral college](https://www.youtube.com/watch?reload=9&v=ajavsMbCapY)
+    
+**Q:** Should foreigners, currently residing in the United States, have the right to vote?
+- No, only legal citizens should be allowed to vote
+    - If you want to have a say in how the country is run, I think you should be a legal citizen of that country.
+
+**Q:** Should a photo ID be required to vote?
+- Yes.
+    - Period, no question.
+    
+### National Security Issues
+
+**Q:** Should the President be able to authorize military force against Al-Qaeda without Congressional approval?
+- Yes
+    - The commander in chief is entrusted to make decisions with the military that protect the coutries well being at all costs.
+    
 **Q:** 
-
-
     
 
