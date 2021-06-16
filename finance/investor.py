@@ -28,8 +28,8 @@ def main():
     birth_date_str = birth_date.strftime("%B %d, %Y")
     print("Your Birthday: ", birth_date_str, "\n")
     
-    # June 6, 2020 (2020, 6, 26)
-    start_date = dt.date(2020, 6, 26) # the date two weeks before my first payday with UHG
+    # June 6, 2020 (2020, 6, 26) = the date two weeks before my first payday with UHG
+    start_date = dt.date(2020, 6, 26)
     print("Start Date: ", start_date.strftime("%B %d, %Y"), "\n")
     
     age_in_days = abs(start_date - birth_date).days
